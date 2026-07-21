@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+## Check out my Tableau Profile [here](https://public.tableau.com/app/profile/prem.badri/vizzes)!
 <!--
 **premcharanbadri/premcharanbadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

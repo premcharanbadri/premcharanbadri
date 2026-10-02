@@ -2,7 +2,6 @@
 
 I'm a Business Data Scientist working at the intersection of data science and business strategy — turning messy data into decisions people actually act on.
 
-Currently pursuing my M.S. in Business Analytics at UT Austin (McCombs), with experience across retail banking, manufacturing, and consulting. Most of my work lives in credit risk, pricing strategy, and product analytics.
 
 What I work with:
 Python · SQL · R · Tableau · AWS · Snowflake

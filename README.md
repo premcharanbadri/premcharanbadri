@@ -6,6 +6,11 @@ _"I love Data Product, BigTech, and Finance. I come from a Computer Science & Bu
 | **LinkedIn** | [View My Profile](https://www.linkedin.com/in/premcharanbadri/) |
 | **Tableau** | [View My Dashboard](https://public.tableau.com/app/profile/prem.badri/vizzes) |
 | **LeetCode** | [View My Submissions](https://leetcode.com/progress/) |
+| **Hackerrank** | [View My Submissions](https://www.hackerrank.com/profile/Premcharan_2302) |
+
 
 
 <img src="https://leetcard.jacoblin.cool/premcharanbadri"/>
+
+![Hackerrank badges](https://hackerrank-badges.vercel.app/Premcharan_2302)
+

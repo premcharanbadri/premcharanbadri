@@ -1,4 +1,4 @@
-_"I love Data Product, BigTech, and Finance. I come from a Computer Science & Business Systems with Quant & Finance background and a Master's degree in Business Analytics."_
+**I love _AI Data Product, BigTech, and Finance_. I come from a Computer Science & Business Systems with Quant & Finance background and a Master's degree in Business Analytics.**
 
 
 | *Connect with me* | *Here* |

@@ -1,21 +1,11 @@
-## Hi there 👋
-
-I'm a Business Data Scientist working at the intersection of data science and business strategy — turning messy data into decisions people actually act on.
+_"I love Data Product, BigTech, and Finance. I come from a Computer Science & Business Systems with Quant & Finance background and a Master's degree in Business Analytics."_
 
 
-What I work with:
-Python · SQL · R · Tableau · AWS · Snowflake
+| *Connect with me* | *Here* |
+| :--- | :--- |
+| **LinkedIn** | [View My Profile](https://www.linkedin.com/in/premcharanbadri/) |
+| **Tableau** | [View My Dashboard](https://public.tableau.com/app/profile/prem.badri/vizzes) |
+| **LeetCode** | [View My Submissions](https://leetcode.com/progress/) |
 
-What I build:
-Predictive risk models, pricing optimization frameworks, ETL pipelines, and dashboards that help teams decide faster.
-
-Below you'll find projects spanning churn prediction, price elasticity modeling, cloud data warehousing, and risk analytics — each with a report or notebook walking through the approach.
-
-
-## Check out my Tableau Profile [here](https://public.tableau.com/app/profile/prem.badri/vizzes)!
-
-## Connect with me on [Linkedin](https://www.linkedin.com/in/premcharanbadri/)
-
-### [Leetcode](https://leetcode.com/progress/)
 
 <img src="https://leetcard.jacoblin.cool/premcharanbadri"/>
